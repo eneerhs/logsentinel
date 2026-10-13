@@ -3,30 +3,19 @@
 - Full name: Anir N T Elhasairi
 - Student ID: 2309116564
 - GitHub username: eneerhs
-- Course: COE203 - Advanced Programming with Python
-- Project: LogSentinel, Project 1
+- Course: COE203 – Advanced Programming with Python
+- Project: LogSentinel, Project 1 – Personal Automation Tool
 
-## My confirmed contribution
+## My contribution
 
-I selected LogSentinel as our replacement assignment project and supplied the
-existing repository ZIP and PowerPoint for review. I requested working tests,
-accurate explanations, submission preparation, and a GitHub repository. I
-identified that this is a team project and requested contribution records.
+I contributed jointly and equally to LogSentinel with Çınar Sabancı and Asaad Asaad. We worked together as a team on the project, and share contribution credit equally rather than assigning exclusive individual roles.
 
-This record does not claim that I wrote the supplied parser, detectors, tests,
-or original slides. Original implementation work must be attributed by the
-team using their actual work history.
+This shared-contribution description reflects the team lead's confirmation. It does not attribute specific modules or commits to one member.
+
+## Project scope and evidence
+
+The submitted project contains a Python CLI, log parsing, four detection rules, text/JSON/CSV reports, a synthetic demonstration log, automated tests, and a README. These files provide evidence of the team's submitted result.
 
 ## Review assistance
 
-Codex reviewed the supplied code and presentation, repaired a Windows-specific
-test, added regression tests, and made focused input-validation and file-safety
-fixes. Codex also corrected documentation and presentation claims and prepared
-the repository for submission. These assisted changes are not represented as
-my independent implementation or personal test execution.
-
-## Project evidence
-
-The repository includes `cli.py`, the `logsentinel/` modules, a synthetic sample
-log, tests, and the README. Other team members should add truthful individual
-contribution records under `contributions/`.
+Codex reviewed the supplied project, made focused validation and file-safety fixes, added regression tests, corrected explanations, and prepared the GitHub submission. These assisted changes are distinguished from the team's joint contribution.
