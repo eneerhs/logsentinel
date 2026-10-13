@@ -35,6 +35,8 @@ python cli.py analyze --help
 | `contributions/` | One markdown file per team member describing their work |
 | `contributions/STUDENT_NAME_STUDENT_ID_GITHUB_USERNAME.md` | Blank template for actual members |
 | `contributions/Anir_N_T_Elhasairi_2309116564_eneerhs.md` | Anir's confirmed project-selection and review-preparation contribution |
+| `contributions/Çınar_Sabancı_2409115637_cyh77.md` | Çınar Sabancı's identity-filled draft; actual work pending |
+| `contributions/Asaad_Asaad_2409115584_asaadalabsi.md` | Asaad Asaad's identity-filled draft; actual work pending |
 | `.gitignore` | Excludes caches, local credentials, real logs, and generated reports while keeping the sample log |
 | `README.md` | Setup, file map, commands, rule semantics, limits, and tests |
 
@@ -115,4 +117,14 @@ All 27 tests passed during review on October 13, 2026. The tests cover parser ed
 
 Every actual team member must complete their own file using `STUDENT_NAME_STUDENT_ID_GITHUB_USERNAME.md`, with spaces replaced by underscores. The template contains no invented members or contribution claims. Anir's record describes only confirmed work in the project conversation; original source authorship remains for the team to document truthfully.
 
-The intended repository is `eneerhs/logsentinel`. Keep it private until the owner approves public visibility. Submit the repository URL through the professor's specified channel once all actual contribution records are complete and the required visibility is set.
+Confirmed team identities:
+
+| Member | Student ID | GitHub |
+|---|---|---|
+| Anir N T Elhasairi | 2309116564 | eneerhs |
+| Çınar Sabancı | 2409115637 | cyh77 |
+| Asaad Asaad | 2409115584 | asaadalabsi |
+
+Çınar and Asaad have identity-filled contribution drafts. Each must replace the pending-work section with a truthful account before submission.
+
+The repository is `eneerhs/logsentinel`. Keep it private until the owner approves public visibility. Submit the repository URL through the professor's specified channel once all actual contribution records are complete and the required visibility is set.
