@@ -125,6 +125,6 @@ Confirmed team identities:
 | Çınar Sabancı | 2409115637 | cyh77 |
 | Asaad Asaad | 2409115584 | asaadalabsi |
 
-All three members share equal contribution credit, as confirmed by the team lead. The records do not invent separate roles or individual module ownership.
+All three members share equal contribution credit, as confirmed by the team lead. The records do not invent separate roles or individual module ownership. Anir coordinated the GitHub upload through `eneerhs`, with Codex assistance, and presents the entire project on behalf of the team. Initial upload commits are under the owner account rather than separate member accounts.
 
 The repository is `eneerhs/logsentinel`. Keep it private until the owner approves public visibility. Submit the repository URL through the professor's specified channel once the required public visibility is set.
