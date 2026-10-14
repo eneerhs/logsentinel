@@ -127,4 +127,4 @@ Confirmed team identities:
 
 All three members share equal contribution credit, as confirmed by the team lead. The records do not invent separate roles or individual module ownership. Anir coordinated the GitHub upload through `eneerhs`, with Codex assistance, and presents the entire project on behalf of the team. Initial upload commits are under the owner account rather than separate member accounts.
 
-The repository is `eneerhs/logsentinel`. Keep it private until the owner approves public visibility. Submit the repository URL through the professor's specified channel once the required public visibility is set.
+The repository is public: https://github.com/eneerhs/logsentinel. Submit the public repository URL and the PPTX through the professor's specified homework channel. The professor will inspect both contribution descriptions and GitHub diffs; shared-contribution statements do not establish separate member commit authorship.
